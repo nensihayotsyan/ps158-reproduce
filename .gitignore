@@ -1,0 +1,3 @@
+# Downloaded SCF files (~400 MB); recreate with get_data.py
+data/*.dta
+__pycache__/

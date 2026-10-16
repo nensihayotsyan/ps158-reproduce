@@ -1,0 +1,86 @@
+{
+  "1989": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp1989.dta",
+    "file": "scfp1989.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  },
+  "1992": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp1992.dta",
+    "file": "scfp1992.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  },
+  "1995": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp1995.dta",
+    "file": "scfp1995.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  },
+  "1998": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp1998.dta",
+    "file": "scfp1998.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  },
+  "2001": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp2001.dta",
+    "file": "scfp2001.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  },
+  "2004": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp2004.dta",
+    "file": "scfp2004.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  },
+  "2007": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp2007.dta",
+    "file": "scfp2007.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  },
+  "2010": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp2010.dta",
+    "file": "scfp2010.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  },
+  "2013": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp2013.dta",
+    "file": "scfp2013.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  },
+  "2016": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp2016.dta",
+    "file": "scfp2016.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  },
+  "2019": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp2019.dta",
+    "file": "scfp2019.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  },
+  "2022": {
+    "url": "https://github.com/jamesohawkins/SCF-Comparison/blob/29c45519a0c36c5a7739c161fc169a80cfd47c38/Raw-Data/scf_summary/rscfp2022.dta",
+    "file": "scfp2022.dta",
+    "dollar_base_text": [
+      "Historical extract: 2022 dollars (latest survey in the set)."
+    ]
+  }
+}
